@@ -7,10 +7,14 @@ h1{
   color: #3083DC;
   font-family: Monaco
 }
-p{
+h2{
   font-size:300%;
+  color: #000000;
+  font-family: Monaco
+}
+p{
+  font-size:120%;
   color: #235789;
-  text-decoration: underline;
   font-family: Helvetica
 }
 img{
